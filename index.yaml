@@ -1,3 +1,15 @@
 apiVersion: v1
-entries: {}
-generated: "2024-03-16T12:51:55.9608744+01:00"
+entries:
+  session-scaler:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-03-17T21:38:38.179697669Z"
+    description: An External KEDA scaler for Azure Service Bus session-enabled queues
+      and subscriptions
+    digest: b14c8a6ce71ce5d3a0ebfc2a731c727da05979cae160511573061bc38b0bb638
+    name: session-scaler
+    type: application
+    urls:
+    - https://miqm.github.io/helm-charts/packages/session-scaler-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-17T21:38:38.179017564Z"
